@@ -120,7 +120,7 @@ h1, h2, h3, h4, h5, h6{
     width: 100%;
     height: 100vh; 
     
-    background: url("./img/reborn.jpg") center no-repeat;
+    background: url("../img/reborn.jpg") center no-repeat;
     background-size: cover;
 
 }
@@ -158,7 +158,7 @@ h1, h2, h3, h4, h5, h6{
 
 .section{
     padding: 80px 0;
-    background: url("./img/jungle.jpg") center no-repeat;
+    background: url("../img/jungle.jpg") center no-repeat;
     background-size: cover;
 }
 
@@ -544,7 +544,7 @@ h1, h2, h3, h4, h5, h6{
   ul li{
     position: relative;
     list-style: none;
-    background: url(./img/neftyanoe-derevo-hanga.jpeg);
+    background: url(../img/neftyanoe-derevo-hanga.jpeg);
     background-size: cover;
     width: 320px;
     height: 320px;
@@ -558,11 +558,11 @@ h1, h2, h3, h4, h5, h6{
                 0 0 0 7px rgba(255, 255, 255, 0.80);
    }
    ul li:nth-child(2){
-    background: url(./img/shmidt.jpg);
+    background: url(../img/shmidt.jpg);
     background-size: cover;
    }
    ul li:nth-child(3){
-    background: url(./img/arbutus.jpg);
+    background: url(../img/arbutus.jpg);
     background-size: cover;
    }
    ul li .content{
